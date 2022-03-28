@@ -1,4 +1,5 @@
-# todo-vuetify
+# Vuetify project magement app
+
 
 ## Project setup
 ```
